@@ -1,0 +1,16 @@
+---
+groups:
+  i3:
+    hosts:
+      - think
+    vars: {}
+  zile:
+    hosts:
+      - think
+    vars: {}
+
+hosts:
+  think:
+    ansible_host: 127.0.0.1
+    ansible_user: markus
+    ansible_connection: local

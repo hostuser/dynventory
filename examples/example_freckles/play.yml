@@ -1,0 +1,5 @@
+---
+- hosts: zsh
+
+  roles:
+    - ansible-freckles

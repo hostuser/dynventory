@@ -1,0 +1,4 @@
+i3:
+  pkgs:
+    - i3-wm
+    - i3status

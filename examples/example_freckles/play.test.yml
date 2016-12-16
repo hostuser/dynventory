@@ -1,0 +1,7 @@
+- hosts: zsh
+  roles:
+  - ansible-freckles
+- hosts: dunst
+  roles:
+  - ansible-freckles
+
